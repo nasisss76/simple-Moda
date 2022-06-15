@@ -5,7 +5,7 @@ let multiplication = document.querySelector(".multiplication");
 
 function showModal() {
   modal.style.display = "block";
-  content.style.filter = "blur(5px)";
+  content.style.filter = "blur(6px)";
 }
 function removeModal() {
   modal.remove();
