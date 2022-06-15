@@ -21,3 +21,4 @@ function removeModalWithScape(event) {
 btn.addEventListener("click", showModal);
 multiplication.addEventListener("click", removeModal);
 document.body.addEventListener("keydown", removeModalWithScape);
+console.log('nastaran');
